@@ -1,0 +1,8 @@
+{
+    "Ignore operating system restrictions": false,
+    "Ignore operating system version restrictions": false, 
+    "List of allowed operating system versions": ["10", "11", "7", "8"], 
+    "DEBUG": false,
+    "Disable logging": false, 
+    "Prohibit program startup": false
+}
